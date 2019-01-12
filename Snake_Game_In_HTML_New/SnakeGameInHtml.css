@@ -1,0 +1,16 @@
+body
+{
+    background:#39c909;
+    color:#000;
+}
+canvas
+{
+    background:#00fffb;
+}
+#controls
+{
+    position:absolute;
+    top:0;
+    right:0;
+    margin:10px;
+}
